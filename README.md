@@ -2,7 +2,7 @@
 <h1 align="center">Hii 👋, I'm Raj</h1>
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
-![readme-header](https://github.com/user-attachments/assets/d0231970-b594-4a47-a991-221924d1a3fa)
+![readme-header](github-header.avif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajyadav63&label=Profile%20views&color=0e75b6&style=flat" alt="rajyadav63" /> </p>
 <h3 align="left">Connect with me:</h3>
