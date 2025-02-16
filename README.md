@@ -1,6 +1,6 @@
 
 <h1 align="center">Hii 👋, I'm Raj</h1>
-<h3 align="center">A passionate Web Developer from Nepal</h3>
+<h3 align="center">A Web Developer from Nepal</h3>
 
 ![readme-header](headerfixed.jpg)
 
