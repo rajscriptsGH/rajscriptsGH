@@ -16,15 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-      <!-- Java -->
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
       <!-- html -->
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
@@ -52,6 +43,7 @@
           height="40"
         />
       </a>
+<!-- JavaScript -->
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
@@ -63,7 +55,16 @@
           height="40"
         />
       </a>
-      <!-- Git -->
+<!-- Java -->
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="java"
+          width="40"
+          height="40"
+        />
+      </a>
+<!-- Git -->
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -72,7 +73,7 @@
           height="40"
         />
       </a>
-      <!-- Node -->
+<!-- Node -->
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -81,7 +82,7 @@
           height="40"
         />
       </a>
-      <!-- Mysql -->
+<!-- Mysql -->
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -90,6 +91,7 @@
           height="40"
         />
       </a>
+<!-- Linux -->
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -98,6 +100,7 @@
           height="40"
         />
       </a>
+<!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
