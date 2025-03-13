@@ -25,6 +25,7 @@
           height="40"
         />
       </a>
+        &nbsp;&nbsp;
       <!-- CSS -->
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
@@ -34,6 +35,7 @@
           height="40"
         />
       </a>
+        &nbsp;&nbsp;
       <!-- TailWind CSS -->
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
@@ -43,6 +45,7 @@
           height="40"
         />
       </a>
+        &nbsp;&nbsp;
 <!-- JavaScript -->
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -55,6 +58,7 @@
           height="40"
         />
       </a>
+        &nbsp;&nbsp;
 <!-- Java -->
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
@@ -64,6 +68,7 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
 <!-- Git -->
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
@@ -73,6 +78,7 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
 <!-- Node -->
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
@@ -82,6 +88,7 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
 <!-- Mysql -->
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
@@ -91,6 +98,7 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
         <!-- Express.js -->
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img 
@@ -100,6 +108,7 @@
         height="40"
       />
     </a>
+          &nbsp;&nbsp;
 <!-- React -->
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img 
@@ -109,6 +118,7 @@
     height="40"
     />
     </a>
+          &nbsp;&nbsp;
 <!-- Linux -->
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
@@ -118,6 +128,7 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
 <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -127,8 +138,9 @@
           height="40"
         />
       </a>
+          &nbsp;&nbsp;
     </p>
-    
+      &nbsp;&nbsp;&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav63&show_icons=true&locale=en&layout=compact" alt="rajyadav63" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajyadav63&show_icons=true&locale=en" alt="rajyadav63" /></p>
