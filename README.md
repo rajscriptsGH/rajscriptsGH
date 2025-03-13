@@ -106,6 +106,7 @@
         alt="Express.js" 
         width="40" 
         height="40"
+        style="background-color: white; padding: 5px; border-radius: 5px;"
       />
     </a>
           &nbsp;&nbsp;
