@@ -99,17 +99,6 @@
         />
       </a>
           &nbsp;&nbsp;
-        <!-- Express.js -->
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-        alt="Express.js" 
-        width="40" 
-        height="40"
-        style="background-color: white; padding: 5px; border-radius: 5px;"
-      />
-    </a>
-          &nbsp;&nbsp;
 <!-- React -->
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img 
@@ -119,26 +108,6 @@
     height="40"
     />
     </a>
-          &nbsp;&nbsp;
-<!-- Linux -->
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-          &nbsp;&nbsp;
-<!-- Python -->
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
           &nbsp;&nbsp;
     </p>
       &nbsp;&nbsp;&nbsp;
