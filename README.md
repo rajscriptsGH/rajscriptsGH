@@ -34,9 +34,11 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav63&show_icons=true&locale=en&layout=compact" alt="rajyadav63" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav63&show_icons=true&locale=en&layout=compact" alt="rajyadav63" height:"50px" width:"120px" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajyadav63&show_icons=true&locale=en" alt="rajyadav63" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajyadav63&show_icons=true&locale=en" alt="rajyadav63" height:"30px" width:"120px"  />
+</p>
 
 
