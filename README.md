@@ -16,20 +16,29 @@
 
 ---
 
-## 🧠 Skills
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+## ⚙️ Tech Stack
+
+```Programming Languages```
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=light)](https://skills.thijs.gg)
+
+```Back-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skills.thijs.gg)
+
+```Databases```
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=light)](https://skills.thijs.gg)
+
+```Tools & Platforms```
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
+
+---
 
 ---
 
