@@ -42,21 +42,24 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
 
-<p align="left">
-   <a href="https://github.com/rajyadav63">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rajyadav63&theme=radical&border_radius=2.5"/>
-   </a>
-</p>
+  <a href="https://github.com/rajyadav63">
+    <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=rajyadav63&layout=compact&theme=radical" width="400px"/>
+  </a>
 
-<p align="left">
-<a href="https://github.com/rajyadav63">
-        <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=rajyadav63&show_icons=true&count_private=true&theme=radical" width="400px"/>
-</a>
+  <a href="https://github.com/rajyadav63">
+    <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=rajyadav63&show_icons=true&count_private=true&theme=radical" width="400px"/>
+  </a>
 
-<a href="https://github.com/rajyadav63">
-        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=rajyadav63&layout=compact&theme=radical" width="400px"/>
-</a>
-</p>
+  <br/>
+
+  <a href="https://github.com/rajyadav63">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rajyadav63&theme=radical&border_radius=2.5"/>
+  </a>
+
+</div>
+
+
 
 
