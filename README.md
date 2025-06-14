@@ -37,7 +37,7 @@
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,npm,notion,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
 
 ---
 
