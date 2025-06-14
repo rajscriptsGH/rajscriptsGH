@@ -9,8 +9,8 @@
 
 <h4>🌐 Connect with Me:</h4>
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rajscripts100x)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajscripts100x/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rajyadav63)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajyadav63/)
 
 
 
