@@ -17,29 +17,12 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-```Languages```
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts&theme=light)](https://skills.thijs.gg)
-
-```FrontEnd```
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=light)](https://skills.thijs.gg)
-
-```BackEnd```
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skills.thijs.gg)
-
-```Database```
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=light)](https://skills.thijs.gg)
-
-```Tools & Platforms```
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,npm,notion,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
-
----
 
 ---
 
