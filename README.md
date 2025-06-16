@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Raj</h1>
+<h1 align="center">Hii 👋, I'm Razz</h1>
 <h3 align="center">A Web Developer from Nepal</h3>
 
 ![readme-header](headerfixed.jpg)
@@ -19,7 +19,7 @@
 
 ## ⚙️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,java,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,npm,notion,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
