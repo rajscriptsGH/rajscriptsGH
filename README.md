@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Razz</h1>
-rajscripts.com
+[rajscripts.com](https://rajscripts.com)
 <h3 align="center">A Web Developer from Nepal</h3>
 
 ![readme-header](headerfixed.jpg)
