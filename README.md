@@ -18,10 +18,11 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+### ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
 
+### ⚙️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,npm,notion,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
 
