@@ -28,6 +28,11 @@
 
 ---
 
+## 📈 WakaTime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajscriptsWT&layout=compact&theme=tokyonight)
+
+
 ### 📊 GitHub Stats
 <div align="center">
 
