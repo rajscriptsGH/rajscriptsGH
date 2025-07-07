@@ -14,8 +14,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajscripts100in/)
 
 
-
-
 ---
 
 ### ⚙️ Tech Stack
@@ -51,7 +49,3 @@
   </a>
 
 </div>
-
-
-
-
