@@ -18,7 +18,7 @@
 
 ### ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,next,react,tailwind,nodejs,express,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
 
 ### ⚙️ Tools
 
