@@ -10,8 +10,9 @@
 
 ### 🌐Connect with Me
 
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajscripts.lk@gmail.com.com)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rajscriptsX)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rajscriptsin/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:vector36razz@gmail.com)
 
 
 ---
