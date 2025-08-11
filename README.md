@@ -25,7 +25,7 @@
 
 ### ⚙️Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,npm,notion,figma,vite,vercel&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,postman,npm,figma,&theme=light)](https://skills.thijs.gg)
 
 ---
 
