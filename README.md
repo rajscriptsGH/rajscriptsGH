@@ -10,13 +10,9 @@
 
 ---
 
-### ⚙️Tech Stack
+### ⚙️Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,next,react,tailwind,nodejs,express,postgres,prisma,mongodb,mysql,html,css,&theme=light)](https://skills.thijs.gg)
-
-### ⚙️Tools
-
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,postman,npm,figma,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,next,react,tailwind,nodejs,express,postgres,prisma,mongodb,mysql,html,css,linux,git,github,postman,npm,figma,&theme=light)](https://skills.thijs.gg)
 
 ---
 
