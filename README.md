@@ -8,13 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=rajscriptsGH&label=Profile%20views&color=0e75b6&style=flat" alt="rajscriptsGH" />
 </p>
 
-### 🌐Connect with Me
-
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:rajscripts.lk@gmail.com.com)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rajscriptsX)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:vector36razz@gmail.com)
-
-
 ---
 
 ### ⚙️Tech Stack
